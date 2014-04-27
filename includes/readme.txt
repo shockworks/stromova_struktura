@@ -1,0 +1,1 @@
+By mel byt temp pro vsechny minifikovane css, js, images, apod. soubory
